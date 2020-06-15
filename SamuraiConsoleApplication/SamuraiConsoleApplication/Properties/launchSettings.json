@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SamuraiConsoleApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "--s --c"
+    }
+  }
+}
